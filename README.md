@@ -3,7 +3,7 @@
 This repository provides the implementation for our paper: [UFDA: Universal Federated Domain Adaptation with Practical Assumptions](https://ojs.aaai.org/index.php/AAAI/article/view/29311)
 
 ## Model Review:
-![framework](resources/Model.pdf)
+![framework](resources/Model.png)
 
 ## Setup
 
