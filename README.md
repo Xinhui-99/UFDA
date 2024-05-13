@@ -23,5 +23,10 @@ base_path
 │   │   VisDA2017+ImageCLEF-DA
 ```
 Our framework now supports four multi-source domain adaptation datasets: ```Office-Home, Office-31, and VisDA2017+ImageCLEF-DA```.
+**Dataset Preparation**
+*OfficeHome:*
+The OfficeCaltech10 dataset can be accessed in [OfficeHome](https://www.hemanthdv.org/officeHomeDataset.html).
+
+
 
 
