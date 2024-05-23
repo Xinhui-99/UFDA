@@ -25,7 +25,7 @@ base_path
 Our framework now supports four multi-source domain adaptation datasets: ```Office-Home, Office-31, and VisDA2017+ImageCLEF-DA```.
 
 **Training**  
-We provide the config files with the format `.yaml`. To perform the FUFDA: Universal Federated Domain Adaptation with Practical Assumptions on the specific dataset (e.g., Office-31), please use the following commands:
+We provide the config files with the format `.yaml`. To perform the UFDA: Universal Federated Domain Adaptation with Practical Assumptions on the specific dataset (e.g., Office-31), please use the following commands:
  
 ```python
 python main_new.py --config train-config-office311.yaml --dist-url 'tcp://localhost:13110' --loss_weight 0.01 --loss_penalty 0.00 --prot_start 5
